@@ -57,7 +57,8 @@ Selain itu, dashboard memiliki mekanisme **visual alert** jika performa berada p
 
 Berikut salah satu tampilan utama dari dashboard telemarketing yang dikembangkan:
 
-(/screenshots/Telemarketing Dashboard.png)
+![Telemarketing Dashboard](screenshot/Telemarketing%20Dashboard.png)
+
 
 ---
 
