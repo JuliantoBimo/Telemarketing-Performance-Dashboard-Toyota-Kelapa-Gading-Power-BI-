@@ -91,7 +91,8 @@ Saya **Julianto Bimo Shevchenko**, lulusan **Teknik Elektro — Universitas Dipo
 
 - 📍 Data Analytics in Automotive Service Industry  
 - ⚙️ After-sales Operational Improvement  
-- 🧠 Dashboard & Process Automation System  
+- 🧠 Dashboard & Process Automation System
+Teknik Elektro Universitas Diponegoro
 
 ---
 
@@ -103,8 +104,8 @@ Saya **Julianto Bimo Shevchenko**, lulusan **Teknik Elektro — Universitas Dipo
 
 ## Contact
 
-📧 Email : *(isi bebas kalau mau)*  
-🌐 GitHub : [Your Repository Link]
+📧 Linkedin : https://id.linkedin.com/in/juliantobimo  
+🌐 GitHub : [[Your Repository Link]](https://github.com/JuliantoBimo/Telemarketing-Performance-Dashboard-Toyota-Kelapa-Gading-Power-BI-/)
 
 ---
 
